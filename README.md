@@ -4,8 +4,6 @@
 
 I build at the intersection of **AI / NLP research** and **production engineering** — fine-tuning transformers in PyTorch, then writing the test automation that proves they work.
 
-🎯 **Currently looking for:** the **MS Data Science** seat at the University of Padova, plus **Summer 2026 internships** in ML / QA / SDET.
-
 ---
 
 ## 🎓 Education
@@ -17,7 +15,6 @@ I build at the intersection of **AI / NLP research** and **production engineerin
 ### 📜 Certifications
 
 - **Databricks Academy** — Generative AI Fundamentals · *Aug 2025*
-- **IELTS Academic** — English Proficiency (B2) · *2024*
 
 ---
 
@@ -121,18 +118,6 @@ A two-layer test automation framework demonstrating modern Python QA practices:
 
 ---
 
-## 🗣️ Languages I Speak
-
-| Language | Level |
-|----------|-------|
-| 🇵🇰 **Urdu** | Native |
-| 🇬🇧 **English** | B2 (IELTS Academic) |
-| 🇵🇰 **Punjabi** | Fluent |
-| 🇷🇺 **Russian** | Elementary |
-| 🇱🇻 **Latvian** | Basic |
-
----
-
 ## 📫 Get in touch
 
 - ✉️ **Email:** [mehmoodanas90@gmail.com](mailto:mehmoodanas90@gmail.com)
@@ -143,14 +128,4 @@ A two-layer test automation framework demonstrating modern Python QA practices:
 
 ---
 
-## 📊 GitHub Stats
-
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmoodanas&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmoodanas&layout=compact&hide_border=true&langs_count=8)
-
----
-
 > *"Quality is never an accident; it is always the result of intelligent effort."* — John Ruskin
-
-⭐ Open to **MS Data Science** programs and **Summer 2026 internships** — let's build something reliable.
