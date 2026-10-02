@@ -1,6 +1,6 @@
 # Hi, I'm Anas Mehmood 👋
 
-**Final-year B.Sc. Computer Systems** at *Riga Technical University* · 📍 Riga, Latvia
+**Computer Systems graduate** (B.Sc., *Riga Technical University*) · 📍 Riga, Latvia · 🌐 [Portfolio](https://mehmoodanas.github.io)
 
 I build at the intersection of **AI / NLP research** and **production engineering** — fine-tuning transformers in PyTorch, then writing the test automation that proves they work.
 
@@ -15,6 +15,8 @@ I build at the intersection of **AI / NLP research** and **production engineerin
 ### 📜 Certifications
 
 - **Databricks Academy** — Generative AI Fundamentals · *Aug 2025*
+- **Nebius** — Agentic AI Builder Certification
+- **Claude Academy** — Claude Code 101
 
 ---
 
@@ -54,11 +56,24 @@ A two-layer test automation framework demonstrating modern Python QA practices:
 
 ---
 
+### 📊 [E-commerce Sales and Delivery Analysis (Olist)](https://github.com/mehmoodanas/olist-ecommerce-analysis)
+
+> *Learning project · 2026*
+
+An end-to-end SQL and Python analysis of about 99,000 historical Brazilian e-commerce orders: cleaning, 41 automated validation checks, reporting models, charts and written findings. The whole project rebuilds from the raw CSV files with one command.
+
+`Python` · `SQL (SQLite)` · `pandas` · `matplotlib`
+
+[**🔗 View on GitHub →**](https://github.com/mehmoodanas/olist-ecommerce-analysis)
+
+---
+
 ### Additional Projects
 
 | Year | Project | Stack |
 |------|---------|-------|
 | 2026 *(in progress)* | **Selenium UI Test Suite** — cross-browser parallelism + Allure reporting | Selenium · Java · Allure |
+| 2026 | **SAP S/4HANA Cloud Order-to-Cash walkthrough** — self-directed learning ([repo](https://github.com/mehmoodanas/sap-o2c-walkthrough)) | SAP S/4HANA Cloud |
 | 2024 | **Customer Support Ticketing System** — full process modelling | BPMN · EFFBD · Sequence Diagrams |
 | 2024 | **Database Management Coursework** — normalised schemas + analytical SQL | MySQL · Window Functions · Joins |
 
@@ -123,7 +138,7 @@ A two-layer test automation framework demonstrating modern Python QA practices:
 - ✉️ **Email:** [mehmoodanas90@gmail.com](mailto:mehmoodanas90@gmail.com)
 - 📱 **Phone:** +371 22025169
 - 📍 **Location:** Riga, Latvia
-- 💼 **LinkedIn:** *coming soon*
+- 💼 **LinkedIn:** [linkedin.com/in/anas-mehmood-1a42b422b](https://www.linkedin.com/in/anas-mehmood-1a42b422b)
 - 💻 **GitHub:** [@mehmoodanas](https://github.com/mehmoodanas)
 
 ---
