@@ -1,12 +1,14 @@
 # Hi, I'm Anas Mehmood 👋
 
-**Computer Systems graduate** (B.Sc., *Riga Technical University*) · 📍 Riga, Latvia · 🌐 [Portfolio](https://mehmoodanas.github.io)
+**Computer Systems graduate** (B.Sc., *Riga Technical University*) · **MSc student in Information Technology** (*Riga Nordic University*) · 📍 Riga, Latvia · 🌐 [Portfolio](https://mehmoodanas.github.io)
 
 I build at the intersection of **AI / NLP research** and **production engineering** — fine-tuning transformers in PyTorch, then writing the test automation that proves they work.
 
 ---
 
 ## 🎓 Education
+
+**MSc Information Technology** — *Riga Nordic University, Latvia* · *present*
 
 **B.Sc. Computer Systems** — *Riga Technical University, Latvia* · Feb 2023 – 2026
 
@@ -102,6 +104,10 @@ An end-to-end SQL and Python analysis of about 99,000 historical Brazilian e-com
 **NLP — Models I work with**
 
 `BERT` · `DistilBERT` · `Sentence-BERT` · supervised & unsupervised learning · model evaluation
+
+**Also working with**
+
+`React` · `Supabase` · `n8n` workflow automation
 
 **Backend & Web**
 
