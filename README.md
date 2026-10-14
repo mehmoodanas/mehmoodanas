@@ -16,6 +16,7 @@ I build at the intersection of **AI / NLP research** and **production engineerin
 
 ### 📜 Certifications
 
+- **IBM SkillsBuild** — [AI Fundamentals: Foundations for Understanding AI](https://www.credly.com/go/afNJynmZ) · *Oct 2026*
 - **Databricks Academy** — Generative AI Fundamentals · *Aug 2025*
 - **Nebius** — Agentic AI Builder Certification
 - **Claude Academy** — Claude Code 101
